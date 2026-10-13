@@ -21,6 +21,7 @@ My LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0006-zigzag-conversion) |
 ## Sliding Window
 |  |
@@ -34,4 +35,16 @@ My LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
