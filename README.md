@@ -6,6 +6,7 @@ My LeetCode solutions and DSA practice in C++
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0007-reverse-integer) |
 ## Array
 |  |
@@ -24,4 +25,12 @@ My LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
