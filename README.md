@@ -7,4 +7,12 @@ My LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
