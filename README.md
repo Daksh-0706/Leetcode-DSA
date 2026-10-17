@@ -8,6 +8,7 @@ My LeetCode solutions and DSA practice in C++
 | ------- |
 | [0002-add-two-numbers](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0012-integer-to-roman) |
 ## Array
 |  |
 | ------- |
@@ -18,12 +19,14 @@ My LeetCode solutions and DSA practice in C++
 | ------- |
 | [0001-two-sum](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0012-integer-to-roman) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Daksh-0706/Leetcode-DSA/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
 | ------- |
